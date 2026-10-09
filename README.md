@@ -1,2 +1,2 @@
 # Prismer
-A (not) simple Prism graph helper.
+A (not) simple excel 2 Prism graph helper.
