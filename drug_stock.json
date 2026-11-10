@@ -1,0 +1,9 @@
+{
+  "pharmacy": "校医院药房",
+  "drugs": [
+    {"code":"A01","name":"阿莫西林","stock":120,"rx":true},
+    {"code":"A02","name":"布洛芬","stock":200,"rx":false},
+    {"code":"A03","name":"二甲双胍","stock":80, "rx":true},
+    {"code":"A04","name":"维生素C","stock":350,"rx":false}
+  ]
+}
